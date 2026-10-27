@@ -1,0 +1,18 @@
+Linha do tempo comentada - Aula 1
+- ARPANET: Rede pioneira desenvolvida nos Estados Unidos que marcou o ponto de partida na evolução das redes de computadores.
+- 1969: Ano de criação da ARPANET, que iniciou o projeto conectando quatro pontos de comunicação.
+- Década de 1970: Período marcado pelo crescimento do número de pontos de conexão e pelo uso do protocolo NCP.
+- NCP: Protocolo de comunicação utilizado na fase inicial de expansão da rede durante a década de 1970.
+- TCP/IP: Conjunto de protocolos introduzidos no final da década de 1970 que padronizou a comunicação entre diferentes redes.
+- 1983: Ano da adoção oficial do protocolo TCP/IP na evolução da ARPANET.
+- WWW / HTML / HTTP:Tecnologias criadas por Tim Berners-Lee que juntas formaram a Web, a linguagem de marcação das páginas (HTML) e o protocolo de transferência (HTTP).
+- RNP: Rede Nacional de Ensino e Pesquisa, criada em 1989 para conectar universidades e instituições de pesquisa, iniciando a Internet no Brasil.
+- 1995: Ano que marcou o início do funcionamento dos provedores comerciais de Internet no Brasil.
+Internet e Web são diferentes. A Internet é a infraestrutura física e global de redes que conecta computadores e dispositivos pelo mundo. Já a Web é apenas um dos serviços que roda sobre a Internet, sendo responsável por disponibilizar páginas e recursos acessados pelos navegadores.
+
+2 Checkpoint: explique com um exemplo simples por que a comunicação por pacotes é importante para
+entender o funcionamento da Internet.
+A comunicação por pacotes é o processo de pegar uma informação grande (um dado), dividi-la em vários pedaços menores (pacotes) contendo o endereço de destino e instruções de remontagem, e enviá-los pela rede para que sejam reunidos no final. É importante pois: 
+Evita travamentos: Em vez de um arquivo gigante bloquear a linha da rede, pequenos pacotes de milhares de pessoas trafegam juntas ao mesmo tempo.
+Recuperação rápida: Se a foto de uma página não chegar ou der erro, você reenvia apenas aquela página, sem precisar reenviar as outras.
+Organização: É o que permite que dados sejam transportados com segurança e organizados na chegada.

@@ -1,0 +1,18 @@
+<!-- -- Diagnóstico do computado - Aula 00 --  -->
+<!-- 1. Hardware:
+Processador: Intel(R) Core(TM) i5-14500 (2.60 GHz)
+Memória RAM: 16,0 GB
+Armazenamento: 954 GB
+2. Sistema operacinal:
+Sistema instalado: Windows 11 Education
+3. Navegadores disponíveis:
+Google Chrome
+Microsot Edge
+4. EDITOR DE CÓDIGO:
+- Editor escolhido: Visual Studio Code 
+- Criar arquivos: Menu File > New File 
+- Salvar arquivos: Menu File > Save
+- Abrir arquivos: Menu File > Open File  -->
+
+1 Checkpoint: explique a diferença entre hardware e software e cite dois exemplos de cada um relacionados à aula.
+Hardware são os componentes físicos do computador como dispositivos de armazenamento (HD ou SSD), processadores, placa-mãe entre outros. Já o Software representa o conjunto de programas do computador como o sistema operacional, navegador e Editor. 
